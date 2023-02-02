@@ -1,0 +1,1 @@
+SELECT * FROM formularze WHERE hurtownia LIKE "BOS-POL" ORDER BY data DESC
